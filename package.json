@@ -1,0 +1,26 @@
+{
+"name": "online-bookstore-234",
+"version": "1.0.0",
+"description": "a web application that provides users with a convenient platform to browse, purchase, and review books online. ",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/jamiyafalynr756/Online-Bookstore.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "jamiyafalynr756",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
